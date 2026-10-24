@@ -1,0 +1,33 @@
+
+*{
+    margin:0;
+    
+}
+
+body{
+    font-family:"Outfit";
+}
+
+
+
+.tmava{
+    background-color:#9f6267;
+}
+
+.uvod-nadpis{
+    color:#fcfafa;
+    text-align: center;
+    padding:50px;
+    font-size:50px
+}
+
+.uvod-text{
+    color:#fcfafa;
+    text-align: center;
+    font-size:25px;
+    
+}
+
+.prvni-texty{
+    padding:50px;
+}
