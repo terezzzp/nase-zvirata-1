@@ -39,17 +39,23 @@ body{
 
 
 
+
+
+
+
 .obal-zvirata{
     display: grid;
-    grid-template-columns: repeat(2, 1fr);
-    grid-template-rows: repeat(2, 200px);
-    gap: 20px;
-    max-width: 700px;
+    grid-template-columns: repeat(2, 2fr);
+    grid-template-rows: repeat(2, 340px);
+    gap: 100px;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding-top: 100px;
 }
 
 
 .zvire{
     border-radius:15px;
-    background-color:#8a5458;
+    background-color:#603b3e;
     
 }
