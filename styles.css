@@ -17,8 +17,8 @@ body{
 .uvod-nadpis{
     color:#fcfafa;
     text-align: center;
-    padding:50px;
-    font-size:50px
+    padding:0 0 40px 0;
+    font-size:50px;
 }
 
 .uvod-text{
@@ -29,5 +29,17 @@ body{
 }
 
 .prvni-texty{
-    padding:50px;
+    padding: 70px;
+}
+
+
+.obal-zvirata{
+    display:grid;
+}
+
+
+.zvire{
+    border-radius:15px;
+    background-color:#8a5458;
+    
 }
